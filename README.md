@@ -1,2 +1,2 @@
-# Social-media-de-Estudiantes
-Es una practica de analisis de datos sobre una base de datos de las redes sociales de los estudiantes de diferentes grados
+# Students Social Media Addiction
+Es una practica de analisis de datos sobre una base de datos sobre la adicción de los estudiantes sobre el uso de las redes sociales. 
